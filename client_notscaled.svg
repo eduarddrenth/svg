@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" onload="init(true);" id="svg2" sodipodi:version="0.32"
+inkscape:version="0.45.1" width="800" height="600" version="1.0" sodipodi:docbase="/home/eduard/protect"
+sodipodi:docname="client.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <defs id="defs5">
+<script type="text/ecmascript" id="script2742">
+    var running = true;
+    var d = window.document;
+    var svgns = 'http://www.w3.org/2000/svg';
+    var xlinkns = 'http://www.w3.org/1999/xlink';
+    function toggle(evt) {
+        if (running) {
+            window.setTimeout('init()',100);
+            d.documentElement.pauseAnimations();
+            running = false;
+        } else {
+            window.setTimeout('init(true)',100);
+            window.document.documentElement.unpauseAnimations();
+            running = true;
+        }
+    }
+    function init(pause) {
+        d.getElementById('pause').setAttributeNS(null,'display',((pause)?'inherit':'none'));
+        d.getElementById('play').setAttributeNS(null,'display',((pause)?'none':'inherit'));
+    }
+  
+</script>
+
+    <marker inkscape:stockid="Arrow2Lend" orient="auto" refY="0.0" refX="0.0" id="Arrow2Lend"
+    style="overflow:visible;">
+      <path id="path3454" style="font-size:12.0;stroke-width:0.62500000;stroke-linejoin:round;"
+      d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+       transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+
+    <linearGradient id="linearGradient3138">
+      <stop style="stop-color:#f7f7f7;" offset="0" id="stop3140" />
+
+      <stop id="stop3146" offset="0.90909094" style="stop-color:#f7f7f7;stop-opacity:0.49803922;" />
+
+      <stop style="stop-color:#f7f7f7;stop-opacity:0;" offset="1" id="stop3142" />
+    </linearGradient>
+
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3138" id="linearGradient3144" x1="80.523758"
+    y1="141.55467" x2="280.44482" y2="141.55467" gradientUnits="userSpaceOnUse" />
+
+    <filter id="schaduw">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.5" result="vaag" id="feGaussianBlur2355" />
+
+      <feOffset in="vaag" dx="2" dy="2" result="result" id="feOffset2357" />
+
+      <feMerge id="feMerge2359">
+        <feMergeNode in="result" id="feMergeNode2361" />
+
+        <feMergeNode in="SourceGraphic" id="feMergeNode2363" />
+      </feMerge>
+    </filter>
+
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3138" id="linearGradient11258"
+    gradientUnits="userSpaceOnUse" x1="80.523758" y1="141.55467" x2="280.44482" y2="141.55467" />
+  </defs>
+
+  <sodipodi:namedview inkscape:window-height="699" inkscape:window-width="1024" inkscape:pageshadow="2"
+  inkscape:pageopacity="1" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0"
+  bordercolor="#666666" pagecolor="#ffffff" id="base" width="800px" height="600px" inkscape:zoom="0.72028435"
+  inkscape:cx="386.34784" inkscape:cy="522.13449" inkscape:window-x="0" inkscape:window-y="24"
+  inkscape:current-layer="svg2" units="px" />
+
+  <g>
+    <rect width="100%" height="100%" x="0" y="0" style="fill:#ffe26c" id="rect2437" />
+
+    <image y="0" x="642.02881" id="image2483" height="128" width="160"
+    sodipodi:absref="/media/oldroot/home/eduard/protect/BEINGRID LOGO.png" xlink:href="BEINGRID LOGO.jpg" />
+
+    <g filter="url(#schaduw)" id="g2191" transform="matrix(0.3359982,0,0,0.3359982,61.109184,51.854414)" opacity="0"
+    inkscape:label="backupclient">
+      <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="2s" fill="freeze"
+      attributeType="XML" additive="sum" />
+
+      <animateTransform attributeName="transform" type="translate" from="-300, -300" to="0, 0" dur="2s" fill="freeze"
+      attributeType="XML" additive="sum" />
+
+      <animate attributeName="opacity" values="0; 1" dur="2s" fill="freeze" />
+
+      <rect y="44.370823" x="61.086987" height="194.36769" width="241.57127" id="rect2163" rx="60" ry="10"
+      style="fill:#c5c5c5;fill-opacity:1;" />
+
+      <rect rx="44.426903" ry="41.650219" y="63.80759" x="80.523758" height="155.49416" width="199.92105" id="rect2161"
+      style="fill:url(#linearGradient3144);fill-opacity:1;" />
+
+      <rect transform="matrix(0.9999935,-3.5982553e-3,-0.6831184,0.7303076,0,0)" y="333.34387" x="280.86099"
+      height="89.993004" width="255.06744" id="rect3148" style="fill:#cfcfcf;fill-opacity:1;" />
+    </g>
+
+    <g id="g10745" filter="url(#schaduw)" transform="translate(127.62166,-15.707281)" opacity="0"
+    inkscape:label="server">
+      <animateTransform additive="sum" attributeType="XML" dur="2s" begin="12s" fill="freeze" to="0, 0"
+      from="-300, -300" type="translate" attributeName="transform" />
+
+      <animate dur="2s" begin="12s" fill="freeze" values="0; 1" attributeName="opacity" />
+
+      <rect ry="19.436769" rx="44.426903" y="227.92471" x="216.58113" height="152.71747" width="83.300438"
+      id="rect3570" style="fill:#cfcfcf;fill-opacity:1;" />
+
+      <path id="path3574" d="M 224.07418,301.07081 C 289.35757,301.07081 289.35757,301.07081 289.35757,301.07081"
+      style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+      <path id="path3576" d="M 224.07418,313.14576 C 289.35757,313.14576 289.35757,313.14576 289.35757,313.14576"
+      style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+      <path id="path3578" d="M 224.07418,325.22076 C 289.35757,325.22076 289.35757,325.22076 289.35757,325.22076"
+      style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+      <path id="path3580" d="M 224.07418,337.29572 C 289.35757,337.29572 289.35757,337.29572 289.35757,337.29572"
+      style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+      <path id="path3582" d="M 224.07418,349.37071 C 289.35757,349.37071 289.35757,349.37071 289.35757,349.37071"
+      style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+      <path id="path3584" d="M 224.07418,361.44567 C 289.35757,361.44567 289.35757,361.44567 289.35757,361.44567"
+      style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+<text xml:space="preserve"
+style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.7;;font-family:Verdana"
+ x="226.02686" y="297.34174" id="text2357" sodipodi:linespacing="125%">
+            
+<tspan sodipodi:role="line" id="tspan2359" x="226.02686" y="297.34174">switch</tspan>
+
+
+        
+</text>
+    </g>
+
+    <g opacity="0" id="g10261" filter="url(#schaduw)" transform="matrix(0.6236594,0,0,0.6236594,48.669101,7.0882813)"
+    inkscape:label="storage">
+      <animateTransform additive="sum" attributeType="XML" dur="2s" begin="6s" fill="freeze" to="0, 0"
+      from="-300, -300" type="translate" attributeName="transform" />
+
+      <animate dur="2s" begin="6s" fill="freeze" values="0; 1" attributeName="opacity" />
+
+      <rect ry="13.293888" rx="31.237663" y="52.993801" x="197.14436" height="83.300438" width="62.475327"
+      id="rect8319" style="fill:#cfcfcf;fill-opacity:1;stroke:#000000;stroke-width:0;" />
+
+      <path transform="matrix(0.9885501,0,0,0.6615951,2.6936684,34.774799)"
+      d="M 259.6197 46.052097 A 31.237663 22.213449 0 1 1 197.14437,46.052097 A 31.237663 22.213449 0 1 1 259.6197 46.052097 z"
+       sodipodi:ry="22.213449" sodipodi:rx="31.237663" sodipodi:cy="46.052097" sodipodi:cx="228.38203" id="path9290"
+      style="fill:#cfcfcf;fill-opacity:1;stroke:#000000;stroke-width:1.01129973;" sodipodi:type="arc" />
+    </g>
+
+    <g id="g10315" inkscape:label="directory">
+      <g opacity="0" id="g10624">
+        <animateTransform additive="sum" attributeType="XML" dur="2s" begin="3s" fill="freeze" to="-23, 0"
+        from="-100, -100" type="translate" attributeName="transform" />
+
+        <animate dur="2s" begin="3s" fill="freeze" values="0; 1" attributeName="opacity" />
+
+        <path id="path10271" d="M 41.231612,20.794014 C 41.231612,111.11088 41.231612,111.11088 41.231612,111.11088"
+        style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+        <path id="path10273" d="M 41.231612,35.51959 C 58.902303,35.51959 58.902303,35.51959 58.902303,35.51959"
+        style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+        <path id="path10275" d="M 41.231612,55.153691 C 57.920598,55.153691 57.920598,55.153691 57.920598,55.153691"
+        style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+        <path id="path10277" d="M 40.249907,75.769497 C 58.902303,75.769497 58.902303,75.769497 58.902303,75.769497"
+        style="fill:none;stroke:#000000;stroke-width:1px;" />
+
+        <path id="path10281" d="M 41.231612,93.440188 C 57.920598,93.440188 57.920598,93.440188 57.920598,93.440188"
+        style="fill:none;stroke:#000000;stroke-width:1px;" />
+      </g>
+    </g>
+
+    <g opacity="0" id="g10294" inkscape:label="file">
+      <animateTransform attributeName="transform" type="translate" from="-100, -100" to="0, 0" dur="2s" begin="3s"
+      fill="freeze" attributeType="XML" additive="sum" />
+
+      <animate attributeName="opacity" values="0; 1" dur="2s" begin="3s" fill="freeze" />
+
+      <animateTransform additive="sum" attributeType="XML" dur="2s" begin="16s" fill="freeze" to="84, 154" from="0, 0"
+      type="translate" attributeName="transform" />
+
+      <animateTransform additive="sum" attributeType="XML" dur="2s" begin="114s" fill="freeze" to="-84, -154"
+      from="0, 0" type="translate" attributeName="transform" />
+
+      <animate attributeName="opacity" values="1; 0" dur="2s" begin="19s" fill="freeze" />
+
+      <animate fill="freeze" begin="111s" dur="2s" values="0; 1" attributeName="opacity" />
+
+      <g id="g10589" transform="translate(-163.45389,-103.56988)">
+        <path sodipodi:nodetypes="ccs" id="path10283"
+        d="M 229.656,163.51765 C 220.00125,163.51765 214.9882,154.60557 214.9882,154.60557 C 214.9882,154.60557 211.08917,144.39382 199.11356,144.39382 L 199.02073,124.62015 L 229.74883,124.62015 L 229.656,163.51765 z "
+         style="fill:none;stroke:#000000;stroke-width:0.37825677px;" />
+
+        <path id="path10286" d="M 201.57552,127.89875 L 227.30783,127.89875"
+        style="fill:none;stroke:#000000;stroke-width:0.37825677px;" />
+
+        <path id="path10288" d="M 201.57551,132.74615 L 227.30783,132.74615"
+        style="fill:none;stroke:#000000;stroke-width:0.37825677px;" />
+
+        <path id="path10290" d="M 201.57551,137.59358 L 227.30783,137.59358"
+        style="fill:none;stroke:#000000;stroke-width:0.37825677px;" />
+
+        <path id="path10292" d="M 201.57552,142.44096 L 227.30783,142.44096"
+        style="fill:none;stroke:#000000;stroke-width:0.37825677px;" />
+      </g>
+    </g>
+
+    <g id="g11236" transform="translate(-71.657179,-43.049509)" opacity="0" filter="url(#schaduw)"
+    inkscape:label="storageclient">
+      <animateTransform additive="sum" attributeType="XML" dur="2s" begin="9s" fill="freeze" to="0, 0"
+      from="-300, -300" type="translate" attributeName="transform" />
+
+      <animate dur="2s" begin="9s" fill="freeze" values="0; 1" attributeName="opacity" />
+
+      <g transform="matrix(0.2174106,0,0,0.2174106,390.66357,53.466731)" id="g11244">
+        <rect style="fill:#c5c5c5;fill-opacity:1;" ry="10" rx="60" id="rect11246" width="241.57127" height="194.36769"
+        x="61.086987" y="44.370823" />
+
+        <rect style="fill:url(#linearGradient11258);fill-opacity:1;" id="rect11248" width="199.92105"
+        height="155.49416" x="80.523758" y="63.80759" ry="41.650219" rx="44.426903" />
+
+        <rect style="fill:#cfcfcf;fill-opacity:1;" id="rect11250" width="255.06744" height="89.993004" x="280.86099"
+        y="333.34387" transform="matrix(0.9999935,-3.5982553e-3,-0.6831184,0.7303076,0,0)" />
+      </g>
+
+      <g transform="matrix(0.3414039,0,0,0.3414039,315.21154,62.108352)" id="g11252">
+        <rect style="fill:#cfcfcf;fill-opacity:1;stroke:#000000;stroke-width:0;" id="rect11254" width="62.475327"
+        height="83.300438" x="197.14436" y="52.993801" rx="31.237663" ry="13.293888" />
+
+        <path sodipodi:type="arc" style="fill:#cfcfcf;fill-opacity:1;stroke:#000000;stroke-width:1.01129973;"
+        id="path11256" sodipodi:cx="228.38203" sodipodi:cy="46.052097" sodipodi:rx="31.237663" sodipodi:ry="22.213449"
+        d="M 259.6197 46.052097 A 31.237663 22.213449 0 1 1 197.14437,46.052097 A 31.237663 22.213449 0 1 1 259.6197 46.052097 z"
+         transform="matrix(0.9885501,0,0,0.6615951,2.6936684,34.774799)" />
+      </g>
+    </g>
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6566" transform="translate(119.39729,8.3300438)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6568" transform="translate(223.52283,51.368602)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6570" transform="translate(315.15331,95.7955)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6572" transform="translate(366.52191,181.87262)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6574" transform="translate(363.74523,283.22148)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6576" transform="translate(345.69681,380.40532)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6578" transform="translate(254.06633,452.59903)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6580" transform="translate(127.72733,455.37571)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6582" transform="translate(-4.1650225,460.92907)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6584" transform="translate(-124.95066,456.76405)" width="800"
+    height="600" />
+
+    <use x="0" y="0" xlink:href="#g11236" id="use6586" transform="translate(-252.67799,455.37571)" width="800"
+    height="600" />
+
+    <g id="g2421" opacity="0" inkscape:label="slices">
+      <animateTransform attributeName="transform" type="translate" from="0, 0" to="250, 60" fill="freeze" begin="23s"
+      dur="2s" attributeType="XML" additive="sum" />
+
+      <animate fill="freeze" begin="19s" dur="2s" values="0; 1" attributeName="opacity" />
+
+      <path inkscape:label="een" id="path2437"
+      d="M 119.91792,175.77518 L 126.59931,175.77518 L 126.68608,185.92742 L 120.00469,184.88616 L 119.91792,175.77518 z "
+       style="fill:#ff2100;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-50, 10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="117, -190" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="vijf" sodipodi:nodetypes="ccscc" id="path2439copy"
+      d="M 126.59931,185.92742 L 126.07868,196.51352 C 126.07868,196.51352 120.17514,195.17903 120.17823,195.55903 L 120.09146,184.88616 L 126.59931,185.92742 z "
+       style="fill:#ff8400;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-40, 0" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="214, -145" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="vijf" sodipodi:nodetypes="ccscc" id="path2439"
+      d="M 126.59931,185.92742 L 126.07868,196.51352 C 126.07868,196.51352 120.17514,195.17903 120.17823,195.55903 L 120.09146,184.88616 L 126.59931,185.92742 z "
+       style="fill:#ff8400;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-40, 0" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="214, -145" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="40, 0" fill="freeze" begin="111s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-214, 145" fill="freeze"
+        begin="55s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-250, -60" fill="freeze"
+        begin="58s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animate fill="freeze" begin="111s" dur="2s" values="1; 0" attributeName="opacity" />
+      </path>
+
+      <path inkscape:label="twee" id="path2441"
+      d="M 126.33899,189.74535 L 133.71455,188.44378 L 133.62778,175.86195 L 126.51253,175.86195 L 126.68608,185.92742 L 126.33899,189.74535 z "
+       style="fill:#ffe700;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-30, 10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="284, -100" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="zes" id="path2443"
+      d="M 133.62778,188.44378 L 129.89661,198.59602 L 125.99191,196.51351 L 126.42576,189.65858 L 133.62778,188.44378 z "
+       style="fill:#ff0094;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-20, 0" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-164, 255" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="drie" id="path2445copy"
+      d="M 133.71455,188.27024 L 133.62778,175.77518 L 141.87105,175.86195 L 139.44146,182.19625 L 142.65199,188.87764 L 133.71455,188.27024 z "
+       style="fill:#6b00ff;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-10, 10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-60, 255" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="drie" id="path2445"
+      d="M 133.71455,188.27024 L 133.62778,175.77518 L 141.87105,175.86195 L 139.44146,182.19625 L 142.65199,188.87764 L 133.71455,188.27024 z "
+       style="fill:#6b00ff;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-10, 10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-60, 255" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="10, 10" fill="freeze" begin="111s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="60, -255" fill="freeze"
+        begin="65s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-250, -60" fill="freeze"
+        begin="68s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animate fill="freeze" begin="111s" dur="2s" values="1; 0" attributeName="opacity" />
+      </path>
+
+      <path inkscape:label="zeven" id="path2447copy"
+      d="M 132.32621,200.50499 L 142.65199,188.79087 L 133.80132,188.35701 L 129.89661,198.50925 L 132.32621,200.50499 z "
+       style="fill:#94ff00;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="300, -20" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="zeven" id="path2447"
+      d="M 132.32621,200.50499 L 142.65199,188.79087 L 133.80132,188.35701 L 129.89661,198.50925 L 132.32621,200.50499 z "
+       style="fill:#94ff00;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="300, -20" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-300, 20" fill="freeze"
+        begin="75s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-250, -60" fill="freeze"
+        begin="78s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animate fill="freeze" begin="111s" dur="2s" values="1; 0" attributeName="opacity" />
+      </path>
+
+      <path inkscape:label="vier" id="path2449"
+      d="M 142.56522,188.7041 L 150.72172,188.87764 L 150.63495,175.86195 L 141.69751,175.86195 L 139.44146,182.02271 L 142.56522,188.7041 z "
+       style="fill:#00a5ff;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="10, 10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="171, 255" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="acht" id="path2451copy"
+      d="M 137.61926,194.431 L 150.63495,195.73257 L 150.72172,188.79087 L 142.56522,188.79087 L 137.61926,194.431 z "
+      style="fill:#f700ff;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="20, 0" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-352, 255" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="acht" id="path2451"
+      d="M 137.61926,194.431 L 150.63495,195.73257 L 150.72172,188.79087 L 142.56522,188.79087 L 137.61926,194.431 z "
+      style="fill:#f700ff;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="20, 0" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-352, 255" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="352, -255" fill="freeze"
+        begin="85s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-250, -60" fill="freeze"
+        begin="88s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animate fill="freeze" begin="111s" dur="2s" values="1; 0" attributeName="opacity" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-20, 0" fill="freeze" begin="111s"
+        dur="2s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="negen" id="path2453"
+      d="M 137.01186,207.27315 L 140.8298,200.33145 L 139.96208,198.6828 L 142.47845,194.95163 L 137.70603,194.431 L 132.32621,200.50499 L 133.97487,202.32719 L 135.27643,204.32293 L 136.14415,206.14513 L 137.01186,207.27315 z "
+       style="fill:#1000ff;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="40, -10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="20, 255" fill="freeze" begin="26s"
+        dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="tien" id="path2455copy"
+      d="M 139.615,202.50073 L 140.8298,200.41822 L 139.96208,198.59602 L 142.47845,194.95163 L 150.63495,195.6458 L 150.63495,204.4097 L 139.615,202.50073 z "
+       style="fill:#00ff9c;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="40, -5" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="230, 180" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="tien" id="path2455"
+      d="M 139.615,202.50073 L 140.8298,200.41822 L 139.96208,198.59602 L 142.47845,194.95163 L 150.63495,195.6458 L 150.63495,204.4097 L 139.615,202.50073 z "
+       style="fill:#00ff9c;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="40, -5" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="230, 180" fill="freeze"
+        begin="26s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-40, 5" fill="freeze" begin="111s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-230, -180" fill="freeze"
+        begin="95s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-250, -60" fill="freeze"
+        begin="98s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animate fill="freeze" begin="111s" dur="2s" values="1; 0" attributeName="opacity" />
+      </path>
+
+      <path inkscape:label="elf" id="path2457copy"
+      d="M 139.615,202.50073 L 136.92509,207.35992 L 138.48697,209.18212 L 141.00334,211.3514 L 144.47419,213.52069 L 147.33764,214.47517 L 149.5937,214.64871 L 150.63495,214.73548 L 150.63495,204.4097 L 139.615,202.50073 z "
+       style="fill:#08ff00;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="50, -10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="236, 80" fill="freeze" begin="26s"
+        dur="3s" attributeType="XML" additive="sum" />
+      </path>
+
+      <path inkscape:label="elf" id="path2457"
+      d="M 139.615,202.50073 L 136.92509,207.35992 L 138.48697,209.18212 L 141.00334,211.3514 L 144.47419,213.52069 L 147.33764,214.47517 L 149.5937,214.64871 L 150.63495,214.73548 L 150.63495,204.4097 L 139.615,202.50073 z "
+       style="fill:#08ff00;fill-opacity:1;stroke:#000000;stroke-width:1px;">
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="50, -10" fill="freeze" begin="20s"
+        dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="236, 80" fill="freeze" begin="26s"
+        dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-50, 10" fill="freeze"
+        begin="111s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-236, -80" fill="freeze"
+        begin="105s" dur="3s" attributeType="XML" additive="sum" />
+
+        <animateTransform attributeName="transform" type="translate" from="0, 0" to="-250, -60" fill="freeze"
+        begin="108s" dur="2s" attributeType="XML" additive="sum" />
+
+        <animate fill="freeze" begin="111s" dur="2s" values="1; 0" attributeName="opacity" />
+      </path>
+    </g>
+
+    <g style="opacity:0" id="g2387" transform="translate(2,-204)" inkscape:label="backuprecord">
+      <animate attributeName="opacity" values="0; 1" fill="freeze" begin="30s" dur="2s" />
+
+      <animateTransform attributeName="transform" type="translate" from="2, -204" to="160, 20" fill="freeze"
+      begin="30s" dur="2s" attributeType="XML" additive="replace" />
+
+      <animateTransform attributeName="transform" type="translate" from="160, 20" to="2, -204" fill="freeze"
+      begin="40s" dur="2s" attributeType="XML" additive="replace" />
+
+      <g inkscape:label="inforecord" id="g10754">
+        <path style="fill:none;stroke:#000000;stroke-width:1px;"
+        d="M 24.990132,357.04039 C 204.08607,357.04039 204.08607,357.04039 204.08607,357.04039" id="path7334" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 26.378472,338.24005 C 26.378472,361.95733 26.378472,361.95733 26.378472,361.95733" id="path7336" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 70.111202,338.24005 C 70.111202,361.95733 70.111202,361.95733 70.111202,361.95733" id="path7338" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 113.84392,338.24005 C 113.84392,361.95733 113.84392,361.95733 113.84392,361.95733" id="path7340" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 157.57665,338.24005 C 157.57665,361.95733 157.57665,361.95733 157.57665,361.95733" id="path7342" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 201.30938,338.24005 C 201.30938,361.95733 201.30938,361.95733 201.30938,361.95733" id="path7344" />
+      </g>
+
+<text inkscape:label="infotekst" id="text2455" y="348.66193" x="77.921043"
+style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:0.89029541;;font-family:Verdana"
+xml:space="preserve">
+backup record     
+</text>
+    </g>
+
+    <g style="opacity:0" id="g2586" transform="translate(2,-204)" inkscape:label="backuprecord">
+      <animate attributeName="opacity" values="0; 1" fill="freeze" begin="30s" dur="2s" />
+
+      <animateTransform attributeName="transform" type="translate" from="2, -204" to="160, 20" fill="freeze"
+      begin="30s" dur="2s" attributeType="XML" additive="replace" />
+
+      <g inkscape:label="inforecord" id="g2592">
+        <path style="fill:none;stroke:#000000;stroke-width:1px;"
+        d="M 24.990132,357.04039 C 204.08607,357.04039 204.08607,357.04039 204.08607,357.04039" id="path2594" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 26.378472,338.24005 C 26.378472,361.95733 26.378472,361.95733 26.378472,361.95733" id="path2596" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 70.111202,338.24005 C 70.111202,361.95733 70.111202,361.95733 70.111202,361.95733" id="path2598" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 113.84392,338.24005 C 113.84392,361.95733 113.84392,361.95733 113.84392,361.95733" id="path2600" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 157.57665,338.24005 C 157.57665,361.95733 157.57665,361.95733 157.57665,361.95733" id="path2602" />
+
+        <path style="fill:none;stroke:#000000;stroke-width:0.86182773px;"
+        d="M 201.30938,338.24005 C 201.30938,361.95733 201.30938,361.95733 201.30938,361.95733" id="path2604" />
+      </g>
+
+<text inkscape:label="infotekst" id="text2606" y="348.66193" x="77.921043"
+style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:0.89029541;;font-family:Verdana"
+xml:space="preserve">
+backup record     
+</text>
+    </g>
+
+    <g opacity="0" id="g4345">
+      <animate dur="2s" begin="34s" fill="freeze" values="0; 1" attributeName="opacity" />
+
+      <g transform="translate(395.67707,212.41611)" id="g4331">
+        <path style="fill:none;stroke:#f50000;stroke-width:2.48221517;stroke-linecap:round;stroke-linejoin:miter;"
+        d="M 62.216432,314.26073 C 118.26784,262.37434 118.26784,262.37434 118.26784,262.37434" id="path3358" />
+
+        <use x="0" y="0" xlink:href="#path3358" id="use4329"
+        transform="matrix(0.9521797,0,0,-0.966339,2.9270653,566.23585)" width="800" height="600" />
+      </g>
+
+      <use height="600" width="800" transform="translate(-12.495068,-438.71563)" id="use4335" xlink:href="#g4331" y="0"
+      x="0" />
+
+      <use height="600" width="800" transform="translate(190.20266,-355.41519)" id="use4337" xlink:href="#g4331" y="0"
+      x="0" />
+
+      <use height="600" width="800" transform="translate(126.33899,-6.9417003)" id="use4339" xlink:href="#g4331" y="0"
+      x="0" />
+
+      <use height="600" width="800" transform="translate(-254.06633,2.7766797)" id="use4341" xlink:href="#g4331" y="0"
+      x="0" />
+    </g>
+
+    <g opacity="0" id="g4361" inkscape:label="question">
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="37s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="43s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="49s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="61s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="71s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="81s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="91s" dur="2s" />
+
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="101s" dur="2s" />
+
+<text transform="scale(1.1504221,0.8692462)" sodipodi:linespacing="125%" id="text2356" y="228.67856" x="269.29013"
+style="font-size:32.72466278px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.87341775;;font-family:Verdana"
+ xml:space="preserve">
+            
+<tspan y="228.67856" x="269.29013" id="tspan2358" sodipodi:role="line">?</tspan>
+
+
+        
+</text>
+
+      <path inkscape:label="infopijl" id="path4357" d="M 115.34973,105.23152 L 377.44436,246.68756"
+      style="fill:none;stroke:#000000;stroke-width:2.77712584;marker-end:url(#Arrow2Lend);" />
+    </g>
+
+    <g inkscape:label="retreivequestion" id="g2658" opacity="0">
+      <animate dur="2s" begin="46s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <animate dur="2s" begin="52s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <animate dur="2s" begin="62s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <animate dur="2s" begin="72s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <animate dur="2s" begin="82s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <animate dur="2s" begin="92s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <animate dur="2s" begin="102s" fill="freeze" values="0; 0.7; 0" attributeName="opacity" />
+
+      <path style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend);"
+      d="M 391.61655,223.19313 L 463.15025,63.038281" id="path4367" inkscape:label="infopijl" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4371"
+      transform="matrix(2.5380256,0,0,0.8123976,-598.35243,62.841478)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4373"
+      transform="matrix(3.5254001,0,0,0.5651036,-971.76742,127.94508)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4375"
+      transform="matrix(4.0190873,0,0,0.1728441,-1161.9458,231.06923)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4377"
+      transform="matrix(3.9431355,0,0,-0.2705797,-1125.3187,347.04073)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4379"
+      transform="matrix(3.8102197,0,0,-0.7566404,-1084.476,472.56141)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4381"
+      transform="matrix(2.6139775,0,0,-1.0124619,-611.37774,549.29323)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4383"
+      transform="matrix(1.1708917,0,0,-0.9783523,-61.238761,548.59559)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4385"
+      transform="matrix(-0.3861219,0,0,-0.9612976,529.26327,558.65933)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4387"
+      transform="matrix(-1.582364,0,0,-0.9527702,973.20635,559.52617)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use4389"
+      transform="matrix(-3.2533054,0,0,-1.0209893,1620.7315,549.81472)" width="800" height="600" />
+
+      <use x="0" y="0" xlink:href="#path4367" id="use2385"
+      transform="matrix(-0.2833513,0,0,1.1544434,483.94473,-23.43087)" width="800" height="600" />
+    </g>
+
+    <text x="20" y="300"
+    style="font-size:80px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+     opacity="0" filter="url(#schaduw)" id="text2344" sodipodi:linespacing="125%">
+    <animate dur="3s" fill="freeze" values="0; 0.6; 0" attributeName="opacity" />
+
+    Configuration</text>
+
+    <text x="20" y="300"
+    style="font-size:80px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+     opacity="0" filter="url(#schaduw)" id="text2352" sodipodi:linespacing="125%">
+    <animate dur="2s" begin="35s" fill="freeze" values="0; 0.6" attributeName="opacity" />
+
+    <animate dur="2s" begin="114s" fill="freeze" values="0.6; 0" attributeName="opacity" />
+
+    Restore</text>
+
+    <text x="20" y="300"
+    style="font-size:80px;font-family:Verdana;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+     opacity="0" filter="url(#schaduw)" id="text2348" sodipodi:linespacing="125%">
+    <animate dur="2s" begin="14s" fill="freeze" values="0; 0.6" attributeName="opacity" />
+
+    <animate dur="2s" begin="32s" fill="freeze" values="0.6; 0" attributeName="opacity" />
+
+    Backup</text>
+
+    <rect x="713" y="516" width="40" height="40" rx="16.106724" ry="13.330044"
+    style="fill:#ffcc01;fill-opacity:1;stroke:none;stroke-width:3;filter:url(#schaduw)" onclick="toggle(evt);"
+    id="rect2745" />
+
+    <g onclick="toggle(evt);" id="pause">
+      <path style="fill:none;stroke:#000000;stroke-width:1px;" d="M 730.5715,529.3735 L 730.5715,542.6265"
+      id="path4508" />
+
+      <path style="fill:none;stroke:#000000;stroke-width:1px;" d="M 734.21631,529.37349 L 734.21631,542.6265"
+      id="path4512" />
+    </g>
+
+    <path onclick="toggle(evt);" style="fill:#000000;stroke:#000000;stroke-width:1px;;"
+    d="M 726.37349,529.49621 L 726.37349,542.50379 L 739.62651,535.38644 L 726.37349,529.49621 z " id="play" />
+
+    <g id="g2693" inkscape:label="nokpijl" transform="matrix(-1.0868152,0,0,-1.1848101,431.9196,526.857)"
+    style="opacity:0">
+      <animate attributeName="opacity" values="0; 1; 0" fill="freeze" begin="48s" dur="1s" />
+
+      <g id="g2711" transform="matrix(0.8707303,0,0,0.8378094,-57.759972,148.88326)">
+        <path style="fill:none;stroke:#000000;stroke-width:2.77712584;marker-end:url(#Arrow2Lend);"
+        d="M 117.90461,102.88795 L 379.99924,244.34399" id="path2713" inkscape:label="infopijl" />
+
+<text sodipodi:linespacing="125%" transform="scale(-1.0441106,-0.9577529)" id="text2715" y="-200.99036" x="-258.27109"
+style="font-size:15.86244965px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;;font-family:Bitstream Vera Sans"
+ xml:space="preserve">
+                
+<tspan y="-200.99036" x="-258.27109" id="tspan2717" sodipodi:role="line">NOK</tspan>
+
+
+            
+</text>
+      </g>
+    </g>
+  </g>
+</svg>
+
+

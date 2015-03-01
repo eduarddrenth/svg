@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>SVG in html</title>
+      <style>
+         .center {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            padding: 20px;
+            vertical-align: middle;
+            border: 3px outset blue;
+            display: block
+         }
+      </style>
+   </head>
+   <body>
+      <p>Voorbeeld van svg in html</p>
+      <svg class="center" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:vp="http://www.vectorprint.nl/2005/dynsvg" 
+     width="800" height="600" id="svg" vp:url="http://localhost"
+     vp:rulers="false" vp:clip="ellipse" vp:cliptool_active_style="fill:green;fill-opacity:0.1" 
+     vp:cliptool_inactive_style="fill:yellow;fill-opacity:0;stroke:black;stroke-width:1px;" 
+     vp:requestmethod="get" vp:guides="true">
+
+
+   <text x="10" y="14" id="help" style="font-size:13">
+   </text>
+
+   <rect x="10" y="15" width="500" height="400" id="frame1" vp:fit="width" vp:highlightstyle="fill:#aaffaa" vp:frame="true" vp:valign="middle" style="fill:#22d911;stroke:#000000;" vp:image_obligatory="true"/>
+      
+   <rect x="100" y="300" width="425" height="275" id="frame2" vp:fit="both" vp:highlightstyle="stroke:black;stroke-width:1px;fill:#c0ffc0" vp:frame="true" vp:valign="middle" vp:align="right" style="stroke:black;stroke-width:1px;fill:#c0c0c0"/>
+
+   <image x="600" y="100" width="425" height="275" xlink:href="marks.jpg" id="image1" vp:resizeonclip="true" vp:dragallowed="true" vp:dragstyle="opacity:0.6" vp:image="true" vp:dpi="600" vp:mindpi="200" vp:clipallowed="true" vp:frame_obligatory="true" />
+      
+   <image x="500" y="400" width="100" height="100" xlink:href="circle.png" id="image2" vp:dragallowed="true" vp:dragstyle="opacity:0.2" vp:image="true" vp:clipallowed="true" vp:resizeonclip="true"/>
+
+   <text x="100" y="600" id="status" style="font-size:15;fill:#ff0000;">
+   </text>
+
+
+   <script type="text/ecmascript" xlink:href="kaders_files/vectorprint_kaders.js"></script>
+   <script type="text/ecmascript" xlink:href="kaders_files/featherajax.js"></script>
+   <script type="text/ecmascript">initVp();</script>
+</svg>
+   </body></html>
